@@ -1,0 +1,2 @@
+# szachy-dla-debili
+gry
